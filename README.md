@@ -2,6 +2,7 @@
 This repository contains the navigation logic I developed as part of a larger autonomous taxi system for a university design project. The system enables a self-driving vehicle to traverse a city map, respond to dynamic fare requests, and optimize path planning based on performance metrics.
 
 ## My Contributions
+
 -Implemented Dijkstra’s algorithm for shortest pathfinding on a bidirectional road graph.
 -Integrated real-time vehicle position tracking with dynamic route updates.
 -Developed logic to interpret map waypoints into turn directives for accurate movement simulation.
@@ -14,6 +15,7 @@ This repository contains the navigation logic I developed as part of a larger au
 
 
 ## Tech Stack
+
 -Python 3
 -NetworkX for graph traversal
 -Matplotlib for visualization
