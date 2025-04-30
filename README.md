@@ -11,7 +11,7 @@ This repository contains the navigation logic I developed as part of a larger au
 
 ## Sample Output
 ### Pathfinding Visualization
-![Navigation Example 1](images/path_planning.png)
+<img src="images/path_planning.png" alt="Navigation Example 1" width="600"/>
 
 
 ## Tech Stack
@@ -22,5 +22,5 @@ This repository contains the navigation logic I developed as part of a larger au
 - JSON-based map and fare data handling  
 
 ## Project Context
-![Taxi Image 1](images/taxi.jpg)
 This module was part of a full-stack simulation involving vehicle control, API-based fare requests (VPFS), and real-time performance monitoring. My work focused specifically on enabling smart and efficient route decision-making under time and environmental constraints.
+<img src="images/taxi.jpg" alt="Taxi Image 1" width="600"/>
