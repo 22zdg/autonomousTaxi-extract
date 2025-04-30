@@ -22,5 +22,5 @@ This repository contains the navigation logic I developed as part of a larger au
 - JSON-based map and fare data handling  
 
 ## Project Context
-This module was part of a full-stack simulation involving vehicle control, API-based fare requests (VPFS), and real-time performance monitoring. My work focused specifically on enabling smart and efficient route decision-making under time and environmental constraints.
+This module was part of a full-stack simulation involving vehicle control, API-based fare requests (VPFS), and real-time performance monitoring. My work focused specifically on enabling smart and efficient route decision-making under time and environmental constraints. *Note: screenshots of commit history can be located in the images folder.
 <img src="images/taxi.jpg" alt="Taxi Image 1" width="600"/>
